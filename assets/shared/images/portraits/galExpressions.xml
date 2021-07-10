@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gal_expressions.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bored0000" x="0" y="0" width="224" height="275"/>
+	<SubTexture name="bored0001" x="0" y="0" width="224" height="275"/>
+	<SubTexture name="bored0002" x="324" y="0" width="224" height="275"/>
+	<SubTexture name="bored0003" x="324" y="0" width="224" height="275"/>
+	<SubTexture name="bored0004" x="648" y="0" width="224" height="275"/>
+	<SubTexture name="bored0005" x="648" y="0" width="224" height="275"/>
+	<SubTexture name="bored0006" x="972" y="0" width="224" height="275"/>
+	<SubTexture name="bored0007" x="972" y="0" width="224" height="275"/>
+	<SubTexture name="normla0000" x="1296" y="0" width="224" height="275"/>
+	<SubTexture name="normla0001" x="1296" y="0" width="224" height="275"/>
+	<SubTexture name="normla0002" x="1620" y="0" width="224" height="275"/>
+	<SubTexture name="normla0003" x="1620" y="0" width="224" height="275"/>
+	<SubTexture name="normla0004" x="0" y="375" width="224" height="275"/>
+	<SubTexture name="normla0005" x="0" y="375" width="224" height="275"/>
+	<SubTexture name="normla0006" x="324" y="375" width="224" height="275"/>
+	<SubTexture name="normla0007" x="324" y="375" width="224" height="275"/>
+	<SubTexture name="thumbsup0000" x="648" y="375" width="226" height="275"/>
+	<SubTexture name="thumbsup0001" x="648" y="375" width="226" height="275"/>
+	<SubTexture name="thumbsup0002" x="974" y="375" width="226" height="275"/>
+	<SubTexture name="thumbsup0003" x="974" y="375" width="226" height="275"/>
+	<SubTexture name="thumbsup0004" x="1300" y="375" width="226" height="275"/>
+	<SubTexture name="thumbsup0005" x="1300" y="375" width="226" height="275"/>
+	<SubTexture name="thumbsup0006" x="1626" y="375" width="226" height="275"/>
+	<SubTexture name="thumbsup0007" x="1626" y="375" width="226" height="275"/>
+</TextureAtlas>

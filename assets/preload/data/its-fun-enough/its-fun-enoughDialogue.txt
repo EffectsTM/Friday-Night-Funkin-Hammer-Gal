@@ -1,0 +1,7 @@
+gal:normal:Ha, that was very cool.
+gal:happy:To be honest, that was fun little dude.
+gal:normal:Sorry to say that was your request for today.
+gal:bored:I got to go back to my station, doing boring things.
+bf:normal:Beep!! boooop!
+gal:normal:If you really want to I guess we can go another one.
+gal:bored:I kinda hate this job anyways, so a new change of pace is always great.
